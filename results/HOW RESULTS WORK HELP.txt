@@ -1,0 +1,1 @@
+This results file will store all your answers to each AUDIT scope automatically. All text files that will be created used the same format: {SCOPE NAME}Questions.txt
