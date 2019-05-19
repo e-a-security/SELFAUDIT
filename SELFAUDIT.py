@@ -151,7 +151,7 @@ def main():
     root = tk.Tk()
     root.title("SELF AUDIT")
     theLabel = Label(root, text="""SELF AUDIT
-A tool that allows you to focus on critical questions to ask about your operation that minimizes risk.
+A tool that allows you to focus on critical questions to ask about your operation.
 
             
 "YES" = PASS
