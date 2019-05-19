@@ -1,0 +1,11 @@
+Does your company provide effective IT Support throughout the company? 
+Is there one IT Support employee for every 32 employees?
+Does your organizational chart state that IT management reports directly to executive level management?
+Does your organizational chart state that the IT department is independent from user departments?
+Are backup personnel trained by IT job function on the appropriate job duties?
+Are there documented roles/responsibilities of the IT organization?
+Do you provide training opportunities to the IT staff?
+Does a yearly IT budget get created?
+IF PREVIOUS ANSWER IS "YES": Does the IT Budget get presented and approved by the Board (or appropriate committee)?
+Do you have an IT Steering Committee that meets and records the content of each meeting?
+Do you have an IT Strategic Plan in place that forecasts 3-5 years into the future and is updated annually?

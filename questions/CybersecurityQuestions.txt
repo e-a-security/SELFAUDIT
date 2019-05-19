@@ -1,0 +1,31 @@
+Do you have a network diagram in place? 
+IF PREVIOUS ANSWER (Do you have a network diagram in place?) IS YES: Does it have a date of when the last revision happened? * Does it identify all critical systems and components such as servers, firewalls, servers, IPS/IDS? * Does it identify all connection points for third-party and vendor connections, as well as VPNs, and so on? * Does it identify network segregation such as DMZ, VLAN, wireless?
+Do you utilize wireless access to allow communication directly to the internal network? IF NO, RISK MITIGATED. 
+IF PREVIOUS ANSWER (Do you utilize wireless access to allow communication directly to the internal network?) IS YES: Is there the use of a strong encryption being in use? Annual change of key? * Do you perform annual independent security testing of wireless network(s)?
+Do you utilize guest wireless security? IF NO, RISK MITIGATED.
+IF PREVIOUS ANSWER (Do you utilize guest wireless security?) IS YES: * Is access to wireless access points physically secured? * Have you disabled unnecessary applications, ports, protocols, and services on a wireless access point device? * Segment guest wireless networks from the internal network? * Has the default password been changed for the administrator account?
+Are all default passwords and unnecessary default accounts changed, disabled, or removed prior to system implementation?
+Do you utilize remote access technologies? IF NO, RISK MITIGATED.
+IF PREVIOUS ANSWER (Do you utilize remote access technologies?) IS YES: * Is there a deployment of Multifactor Authentication? * Do you disable remote communications if no business need exists? * Do you control access through management approvals and audits? * Are you implementing robust control over configurations at both ends of the remote connection to prevent potential malicious use? * Are you logging and monitoring remote access activities?  * Does strong authentication and encryption to secure communication get used? * Do you enable vendor remote access accounts only when necessary? 
+Do firewall rules get audited/verified annually to detect unauthorized changes?
+Do you have a normal network activity baseline established OR automatic alerts that are configured to send notifications to management if a network event exceeds a predefined threshold?
+Do administrators use a standard account for network and email access, and a second account for administrative use which is used only when administrative actions are required? 
+Are users without administrative responsibilities prevented from installing software?
+Are there any controls in place to restrict the use of removable media unless authorized?
+Do you have a cybersecurity insurance in place to transfer the risk? 
+IF PREVIOUS ANSWER (Do you have a cybersecurity insurance in place to transfer the risk? ) IS NO: Do you have a process to formally discuss/estimate potential expenses associated with cybersecurity incidents as part of the budgeting process?
+Do you manage/document system End-of-life (EOL)?
+Are mobile devices in use? IF NO, RISK MITIGATED.
+IF PREVIOUS ANSWER (Are mobile devices in use?) IS YES: are they encrypted if they have the potential to store sensitive data? (Laptops, Non-iOS tablets/Smartphones (Android), USB Removable Media)
+Is there a data flow diagram in place that shows the type of data is identified and the specific route to external parties?
+Have you completed a Cybersecurity Self-Assessment?
+IF PREVIOUS ANSWER (Have you completed a Cybersecurity Self-Assessment?) IS YES: * Does it include Inherent Risk profile and Cybersecurity Maturity in the results? * Is there documentation that states the overall ranking of controls? * Does the assessment get presented by the Board after completion?
+Do you have situational awareness materials made available to employees when prompted by highly visible cyber events or by regulatory alerts?
+Do you have customer awareness material that is readily available? 
+Do you perform monthly Social Engineering testing?
+Are internal, external, wireless penetration testing, and vulnerability scanning conducted according to the risk-based audit plan?
+Is vulnerability scanning conducted and analyzed before the deployment/redeployment of new/existing devices which face the internet? 
+Do you allow external access to email? IF NO, RISK MITIGATED.
+IF PREVIOUS ANSWER (Do you allow external access to email?) IS YES: Is multifactor authentication deployed?
+Do you have any Managed Security Service Provider (MSSP) relationships which outsource any security related functions? IF NO, RISK MITIGATED.
+IF PREVIOUS ANSWER (Do you have any Managed Security Service Provider (MSSP) relationships which outsource any security related functions?) IS YES: * Type and frequency of security reports & Do you have any Managed Security Service Provider (MSSP) relationships which outsource any security related functions. * Clear assignment of responsibilities and accountability (EXAMPLE: Incident Response, Security Alerts, Forensics). * Service availability. * Disaster Recovery. * Security handling of sensitive data.

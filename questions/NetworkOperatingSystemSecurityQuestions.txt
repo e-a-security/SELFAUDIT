@@ -1,0 +1,14 @@
+Do you have a patch process for the security patches that need to be applied on your systems?
+Do you have Antivirus on your servers?
+Has the Antivirus software been updated within the past day?
+Is real-time monitoring enabled for any virus suspicion?
+Is a weekly full system scan scheduled? 
+Does a group policy exist which limits the length of login sessions on servers?
+Does a group policy exist that locks users after a set amount of inactivity? 
+Are default accounts which allow anonymous/guest access disabled from all systems?
+Do your Domain password policies specify best practice settings? * Password History–12 to 24 passwords. * Maximum Password Age–45 to 90 days. * Minimum Password Length– 1 day. * Passwords must meet complexity requirements.
+Are your policies for account lockouts specify best practice settings? * Account lockout duration – 15 to 30 minutes. * Account lockout threshold– 3 invalid logon attempts. * Reset account lockout counter after – 15 to 30 minutes. * Does the server have auditing capabilities enabled?
+Are the audit log records and other security event logs retained on a device which did not generate the logs?
+Are there any unnecessary shares being shared to the network? 
+IF PREVIOUS ANSWER IS NO: Are the share(s) permissions appropriate?
+Is the server fully backed up on a weekly basis?

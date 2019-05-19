@@ -1,0 +1,6 @@
+Is the organization aware of its backup methodology? * Backup types for network backups? * Frequency for network backups? * Is the network backup stored offline? * Is the network backup encrypted?
+Is the backup methodology information stored in your backup policy and/or procedure?
+Do you have a backup test plan?
+If you do have physical backup media being transmitted electronically (offsite), is it going through a secure connection?
+Do you perform testing for backup restore that focuses on high risk data?
+When it comes to backups of high-risk data, is it maintained somewhere that is air gapped from the network?

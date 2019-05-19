@@ -1,0 +1,27 @@
+Is there a Data Center (“Server Room”) Procedure in place?
+Does the Data Center (“Server Room”) document the individuals who are authorized to access the data center?
+Does Data Center (“Server Room”) policy/procedure state how access to the data center is granted?
+Does Data Center (“Server Room”) policy/procedure get reviewed?
+Does the review consist of looking at all users who have access to the data center?
+Is access removed to the Data Center (“Server Room”) if no longer required?
+Is physical access into the Data Center (“Server Room”) only available to the individuals whose primary business functions require them to have access?
+Is the Data Center (“Server Room”) secured with an electronic access card system?
+IF PREVIOUS ANSWER IS NO: Is the Data Center (“Server Room”) secured with a hard key that is only shared with appropriate activity?
+Is the Data Center (“Server Room”) secured with an electronic access card system?
+IF PREVIOUS ANSWER IS NO: Is there a video surveillance system in place that monitors the Data Center (“Server Room”)?
+If electronic access is implemented for the Data Center (“Server Room”), do access reports get documented of who has accessed the data center?
+Does the electronic access report contain: Date/Time?
+Does the electronic access report get reviewed on a regular basis?
+Is there a visitor logging process that requires unauthorized individuals to sign the log upon entry to the Data Center (“Server Room”)? <--> Please note, this does NOT mean access to the building. This directly focuses on access to the Data Center (“Server Room”).
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Fire detection equipment
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Fire suppression equipment
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Uninterruptible power supply (UPS)
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Emergency generators
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Temperature monitoring device
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Humidity monitoring device
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Air coding device
+Have the following environmental controls been installed in the Data Center (“Server Room”)?: Emergency lighting (This directly focuses on objects such as a flashlight for example.)
+Are there documented procedures that focus on maintaining, testing, and frequency to verify that the environmental controls listed above function without issue?
+You have not seen any flammable liquid in or near the Data Center (“Server Room”). (YES=TRUE, NO=FALSE)
+You have not seen any visible signs of water damage to the ceiling or floor in the Data Center (“Server Room”). (YES=TRUE, NO=FALSE)
+

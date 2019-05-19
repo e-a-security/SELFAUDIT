@@ -1,0 +1,8 @@
+Is there a Software Compliance Policy that addresses responsibilities of software and related assets, legal and regulatory agreements, restrictions or personal use of corporate software, and disciplinary implications of violations of the policy?
+Is there a software development process that is defined, maintained, and followed?
+Is there a software monitoring process that is defined, maintained, and followed?
+Is there a software license Proof of Purchase that is defined, maintained, and followed?
+Is your software license inventory current?
+Do your employees receive training on software compliance?
+Is your change management process integrated with the software asset management process?
+Do you have a software release management process that is integrated with the software asset management process that records all software modifications as they occur? 

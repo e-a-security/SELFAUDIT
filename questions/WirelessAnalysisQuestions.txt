@@ -1,0 +1,7 @@
+Is the SSID hidden for the interneal wireless networks?
+Does the wireless network require an authentication key and is protected by encryption standard?
+Is logging of wireless traffic being perform?
+Is alerting of wireless traffic being performed for suspicious activity?
+Is there wireless client isolation (Configuration on the wireless network to isolate connected hosts from each other)?
+Is the wireless network configurated with a pre-shared key?
+Do you perform wireless penetration tests?

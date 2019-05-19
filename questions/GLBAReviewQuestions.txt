@@ -1,0 +1,54 @@
+Do you have an Information Security Risk Assessment?
+IF PREVIOUS ANSWER (Do you have an Information Security Risk Assessment?) IS YES: * Does it identify all information assets and systems (including cloud-based, virtualized, and papered)? * Determination of threats, including likelihood and impact * Identification of inherent risk levels * Documentation of controls to reduce threat impact. * Identification and evaluation of residual risk levels. * Remediation program for unacceptable residual risk levels. * Updating the Risk Assessment promptly for new/emerging risks.
+Do you have an Information Security Policy/Program in place?
+IF PREVIOUS ANSWER (Do you have an Information Security Policy/Program in place?) IS YES, does it contain: * Access controls on customer information systems. * Access restrictions at physical locations containing customer information. * Encryption of electronic customer information (both in transit and in storage on networks or systems). * Dual control procedures and segregation of duties. * Background checks for employees with responsibilities/access with customer information. * Measures for properly disposing of sensitive customer/consumer data containing personally identifiable information. * Specifies an employee to coordinate safeguarding efforts as well as manage the IT Risk Assessment. * Details the monitoring and testing procedures. * Defines a policy that addresses the concepts of threat information sharing with external entities.
+Does your Information Security Policy/Program and Information Security Risk Assessment get presented, reviewed, and approved by the board annually?
+Do you prepare a report of the overall status of the Information Security Policy/Program that gets presented by the board? * Risk Assessment. * Risk Management and Controls Decisions. * Results of Testing. * Compliance Violations and Management’s Response. * Security Breaches. * Service Provider Arrangements. * Patch Management. * Recommendations for Changes. 
+Does your Information Security Policy (OR other policy) state the responsibilities for monitoring and reporting suspicious systems activity has been assigned? 
+Is the board participating in Cybersecurity discussions with management regularly? 
+Is there a Clean Desk policy that documents the understanding of sensitive information being properly secured?
+Are clean desk walkthroughs being performed and documented frequently? 
+Are you participating in information-sharing practices, activities, or forums dedicated to the education, notification, and sharing of cyber security incidents?
+Does information security risks get discussed in management meetings?
+Are there transmission methods for encryption if they contain customer data at rest as well as in transit? * Databases * Mobile devices. * Email. * Back-up media and storage devices. * Transmissions with third parties. * Password databases.
+Do you have an Incident Response Plan in place?
+Does your IR plan include: Incidents that are identified and categorized by risk levels? 
+Does your IR plan include: Alert parameters that prompt mitigation actions. 
+Does your IR plan include: Procedure for filing Suspicious Activity Reports (SARs). 
+Does your IR plan include: Recovery strategies for critical systems, applications, and data. 
+Does your IR plan include: Response and recovery from a cybersecurity event. * Third parties who can provide mitigation strategies. 
+Does your IR plan include: Processes and resources to contain incidents and remediate resulting effects. 
+Does your IR plan include: Internal escalation procedures (notification to the senior management and Board).
+Does your IR plan include: A procedure to bring security breaches to the attention of appropriate management and external entities such as SAR, Information Sharing groups, Law Enforcement, regulatory agencies, etc.
+Does your IR plan include: Incident Response procedures/checklists for expedient use in the case of an emergency
+Does your IR plan include: Cybersecurity-related incidents (ransomware, antivirus, malware)
+Does your IR plan include: Non-Computer security breaches.
+Does your IR plan include: Defined responsibilities/duties.
+Does your IR plan include: Documented process to classify, log, and track incidents.
+Does your IR plan include: Addresses incidents at third-party service providers.
+Does your IR plan include: Confirm that annual testing of the plan will be performed.
+Does your IR plan include: Addresses the referral to the BC/DR plan if incidents reach disaster response levels.
+Has the IR plan been testing the past year?
+IF PREVIOUS ANSWER (Has the IR plan been testing the past year?) IS YES: Were the results presented to the Board?
+Do you enforce access controls on all systems that force unique user IDs and Passwords for all users?
+Are there any shared accounts on any systems?
+Do you have an Employee Acceptable use Policy that required them to follow the safeguarding standards and maintains the confidentiality of customer information? 
+Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Locking rooms and cabinets that contain customer information
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Selecting strong passwords/avoiding password reuse
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Encryption of customer information when transmitted externally (example: email)
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Recognition of fraudulent attempts to obtain customer information
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Reporting security breaches to management and/or law enforcement
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Social Engineering and phishing attempts
+IF PREVIOUS ANSWER (Does annual security training material get presented to employees (safeguarding physical and electronical information assets)?) YES: DOES IT CONTAIN: Cybersecurity threats 
+Does the annual security training get signed by all employees once completed? (Proof of completion) 
+Do you track all audit and regulatory exceptions to final resolutions?
+Do you distribute board packets electronically?
+IF PREVIOUS ANSWER (Do you distribute board packets electronically?) IS YES: Does the method you use to distribute the board enforce protection at rest and in transit (Encryption)?
+Do you maintain a list of all vendors and perform a risk ranking of those vendors to identify critical or high-risk vendors?
+Do you perform critical vendor Service Organization Control (SOC) review? 
+IF PREVIOUS ANSWER (Do you perform critical vendor Service Organization Control (SOC) review?) IS YES: * Exceptions noted from Control Objective Testing. * Formal responses to the Complementary user Entity Controls. * Physical, logical, and environmental controls. * Encryption of electronic customer information. * Dual control procedures, segregation of duties, and employee background checks. * Monitoring systems and procedures to detect actual/attempted attacks/intrusions. * Incident response program that specifics the actions to be taken when the vendor suspects/detects that unauthorized individuals have gained access to customer information systems. * Training for vendor employees.
+Do you have access to all critical Service Organization Control (SOC) reports?
+Do you have a documented procedure to follow when selecting a new vendor/service provider?
+Do you have a documented procedure to follow when evaluating contracts with vendors/service providers at initiation and renewal?
+Do you have a procedure to conduct and document annual due diligence review for all critical vendors/service providers?

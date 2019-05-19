@@ -1,0 +1,7 @@
+Do you have a Change Management Policy and/or Procedure?
+Do you have a Change Management Request Form in place?
+Do you have a Patch Management Policy and/or Procedure?
+Are you hosting (in-house) critical third-party software? IF YES, NEXT QUESTION IS DIRECTED TOWARDS YOU.
+Does the software contract OR license agreement address the following 2 bullet points? * Possession of current source code. * Documented right to obtain, use, and modify the software in any event that would allow the software vendor to be unavailable.
+Do you have custom software (Software Development)?
+IF PREVIOUS ANSWER (Do you have custom software (Software Development)?) IS YES:, does your Systems Development Life Cycle (SDLC) contain: * Segregation of duties. * Software Documentation. * Version Control. * Quality Assurance and User-Accepted testing . * Emergency software fixes. * Restrictions on developer access. * Making of customer data to protect sensitive customer information in the development environment. * Indecent reviews of software before migration into the production environment

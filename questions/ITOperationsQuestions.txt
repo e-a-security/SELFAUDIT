@@ -1,0 +1,7 @@
+Are there controls in place that provide the integrity of documents scanned through the system and electronic images transferred from imaging systems (potential fraud issues)?
+Are there controls in place for the destruction of source documents (example: shredder)?
+Do you have documentations that define how technology systems support your business activities?
+Does the process of the Risk Assessment involve key employees from all business units?
+Does your hep desk support provide effective issue identification, timely problem resolution, and implementation of effective preventive measures? 
+Do you maintain a list of all hardware and software in the environment? (Inventory Listing)
+Does your telecommunications system have adequate availability, speed, and bandwidth/capacity to meet performance requirements? * Controls that limit access to wiring closets, equipment, and cabling to authorized personnel. * Secured telecommunications documentation. * Appropriate telecommunication change control procedures. * Controlled access to internal systems through authentication

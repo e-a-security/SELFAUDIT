@@ -1,0 +1,2 @@
+Are you sending emails to employees to entice them to click a link?
+Does the link contain the ability for the employee(s) to enter information into a form OR perform additional actions once they click the link in the phishing email?

@@ -1,0 +1,5 @@
+Are users without administrative responsibilities unable to install software?
+Are there controls in place to restrict the use of removable media unless there is authorization? 
+Do you have password protected screensavers enabled via Group Policy (20 minutes maximum of inactivity)?
+Are your employees aware of not storing any sensitive data on their desktop?
+Do your users have appropriate local shares?

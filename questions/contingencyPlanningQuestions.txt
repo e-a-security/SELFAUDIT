@@ -1,0 +1,10 @@
+Do you have a Business Continuity Plan OR Disaster Recovery Plan? 
+Does your Business Continuity Plan OR Disaster Recovery Plan document test strategies that get tested annually?
+Do you collaborate with Critical third-parties on an annual basis as part of the BC/DR testing exercise? 
+Does the Business continuity Plan contain a Business Impact Analysis? (BIA)
+Do you have a documented disaster risk assessment for your plan?
+Do you have a formal agreement for an alternate processes site/equipment if there is a need to relocate operations?
+Do you have a documented manual process for work operation that discusses the operation’s activity in the event of a technology outage?
+Does your plan include references to the network diagrams/hardware and software listings?
+Is a copy of the BCP stored offsite (securely)?
+Is there a pandemic plan in place that addresses Planning, Preparation, Testing, Responding, and Recovering?

@@ -1,0 +1,8 @@
+Is there a Demilitarized Zone (DMZ) that has been configured for all internet facing devices? 
+Is the Firewall you're using being supported by the vendor?
+Is the current Firewall version the most recent version available?
+Do you have intrusion detection and prevention capabilities for monitoring hosts and/or network activity (IPS/IDS)?
+Do you have a system in place to inspect encrypted traffic? 
+Do you have the ability to detect/prevent the unauthorized removal of data from the network (Data Loss Prevention)?
+Are there any border routers in use for the connection between sites?
+Does the Change Management Procedure address the medication of the configuration of infrastructure equipment (example: firewalls, routers, switches) (Hardware and software configuration changes)?

@@ -1,0 +1,4 @@
+Do you have a program in place that detects, prevents, and mitigates identity theft?
+Do you rely on technology to detect red flags?
+Do you have appropriate staff that are trained to administer the Identity Theft Red Flags Program?
+Are you logging any instances of identity theft?

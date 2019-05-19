@@ -1,0 +1,5 @@
+Do you review your network users to verify that all are current employees, group assignments, and access to shared resources settings are appropriate? 
+Do you disable user accounts that are owned by employees on a leave of absence?
+Is there restricted after-hours access for users?
+Do you have a documented process for granting access to the network? * Is there a form for requesting/specifying access privileges for all users. * Does the process contain any additions that will be made for the user account. *Is there filing/retention of all access request forms.
+Do you have automatic log-off controls for user inactivity on the network?

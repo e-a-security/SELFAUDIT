@@ -1,0 +1,6 @@
+Do you have a process for escalating any sort of virus-related issue to management?
+Does your tool trigger real-time alerts for virus infection detection?
+Are virus definitions updated at least daily?
+Are there any additional security features such as Anti-Spam, URL Blocking, and Content Filtering?
+Are emails/attachments automatically scanned to detect/block malware?
+Is a Full Scan configured to run weekly?
