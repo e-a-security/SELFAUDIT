@@ -64,7 +64,7 @@ def change(*args):
         AUDITTIME(18)
     elif var.get() == "Wireless Analysis":
         AUDITTIME(19)
-    elif var.get() == "Contingency Planning"
+    elif var.get() == "Contingency Planning":
         AUDITTIME(20)
         
 def AUDITTIME(choiceMade):
